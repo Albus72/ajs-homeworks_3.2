@@ -1,23 +1,30 @@
 {
-  "name": "@albus72/ajs-homeworks_3.2",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Albus72/ajs-homeworks_3.2.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Albus72/ajs-homeworks_3.2/issues"
-  },
-  "homepage": "https://github.com/Albus72/ajs-homeworks_3.2#readme",
-  "dependencies": {
-    "@albus72/ajs-homeworks_3": "^1.0.0"
+    "name": "@albus72/ajs-homeworks_3.2",
+    "version": "1.0.0",
+    "lockfileVersion": 2,
+    "requires": true,
+    "packages": {
+      "": {
+        "name": "@albus72/ajs-homeworks_3.2",
+        "version": "1.0.0",
+        "license": "ISC",
+        "dependencies": {
+          "@albus72/ajs-homeworks_3": "^1.0.0"
+        }
+      },
+      "node_modules/@albus72/ajs-homeworks_3": {
+        "version": "1.0.0",
+        "resolved": "https://npm.pkg.github.com/download/@albus72/ajs-homeworks_3/1.0.0/956280d5d1a822d909ca81d3fa2d94846187c3b41d64e2a54805860e71b9662e",
+        "integrity": "sha512-yGsmnY4MHeJXZMvIw7DJdB2VuTokjFNnXnAUSPe5GLtOHS3iBZgCjlxj9wPwpnmpy2eib5x61D+v2n0DAs8xsw==",
+        "license": "ISC"
+      }
+    },
+    "dependencies": {
+      "@albus72/ajs-homeworks_3": {
+        "version": "1.0.0",
+        "resolved": "https://npm.pkg.github.com/download/@albus72/ajs-homeworks_3/1.0.0/956280d5d1a822d909ca81d3fa2d94846187c3b41d64e2a54805860e71b9662e",
+        "integrity": "sha512-yGsmnY4MHeJXZMvIw7DJdB2VuTokjFNnXnAUSPe5GLtOHS3iBZgCjlxj9wPwpnmpy2eib5x61D+v2n0DAs8xsw=="
+      }
+    }
   }
-}
+  
